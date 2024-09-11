@@ -15,7 +15,7 @@ function NavBar({darkMode,tagleDarkerMode}) {
         
         }
         }>
-          <Typography variant='h3' style={{flexGrow:"1", paddingRight:"40px"}}>
+          <Typography variant='h3' marginLeft={5} p={1} style={{flexGrow:"1", paddingRight:"40px"}}>
             Hello! Bosco
           </Typography>
           <Box>

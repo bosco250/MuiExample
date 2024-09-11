@@ -2,7 +2,6 @@ import React from 'react';
 import { ResponsiveBar } from '@nivo/bar';
 import { Box } from '@mui/material';
 
-// Example data for the bar chart
 const data = [
   { country: 'USA', 'hot dog': 130, 'burger': 60, 'sandwich': 80, 'kebab': 40, 'fries': 50, 'donut': 70 },
   { country: 'Germany', 'hot dog': 80, 'burger': 70, 'sandwich': 90, 'kebab': 60, 'fries': 45, 'donut': 50 },
